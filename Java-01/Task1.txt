@@ -2,7 +2,7 @@
 
 1.JDK (全称Java Development Kit) 是 Java 开发工具包，包含了编写Java程序所需的所有工具和库，它们（库）提供了大量预构建的代码，用于执行各种任务。
 
-2.JRE (全称Java Runtime Environment) 是 Java 运行时环境，包含了运行Java应用程序所需的所有组件， 让Java程序能够在不同的系统和平台上运行，而不需要对代码进行修改。
+2.JRE (全称Java Runtime Environment) 是 Java 运行时环境，包含了运行Java应用程序所需的所有组件， 让Java程序能够在不同的系统和平台上运行。
 
 3.JVM (全称Java Virtual Machine) 是 Java 虚拟机，负责加载 Java 类文件，并将它们的字节码解释或编译成本地机器代码执行。
 
